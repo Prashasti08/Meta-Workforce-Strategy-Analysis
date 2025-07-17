@@ -26,9 +26,9 @@ Demonstrates my ability to **transform complex findings into strategic insights*
 
 ## 🔗 Project Materials
 
-* **[Original Case Study Report (PDF)](Meta%20Workforce%20Strategy%20Analysis.pdf)**
-* **[Presentation to Non-Technical Stakeholders (PDF)](Meta%20Workforce%20Strategy%20Analysis_Prashasti%20Tripathi%20.pdf)**
-* **[NYU Master's Application Case Study Prompt (PDF)](Meta%20Business%20Case%202024.docx.pdf)**
+* **[Meta Case Study Analysis (PDF)](Meta%20Workforce%20Strategy%20Analysis.pdf)**
+* **[Meta Case Study Presentation (PDF)](Meta%20Workforce%20Strategy%20Analysis_Prashasti%20Tripathi%20.pdf)**
+* **[Meta Case Study Prompt (PDF)](Meta%20Business%20Case%202024.docx.pdf)**
 
 
 **Skills Utilized:** People Analytics, Data Analysis, Data Visualization, Data Storytelling, Statistical Analysis, Organizational Psychology, Human Resources Management, Talent Management, Employee Engagement, Retention Strategy, Excel, SPSS, AI Tools, Strategic Recommendations, Business Acumen
