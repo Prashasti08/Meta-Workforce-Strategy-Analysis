@@ -1,16 +1,16 @@
-# 🚀 **Meta Case Study: Transforming Year of Efficiency into Year of Engagement** 🚀
+# **Meta Case Study: Transforming Year of Efficiency into Year of Engagement**
 
 ---
 
-## **🎯 Project Summary**
+## **Project Summary**
 
 I developed and presented a data-driven **Human Capital Management Strategy** to Janelle Gale, Meta's VP of HR Dept to transform their year of efficiency into year of engagement
 
-## **📈 Objective**
+## **Objective**
 
 Transform Meta's post-2023 layoffs **"Morale Crisis"** into an **"Engagement Boost"**.
 
-## **💡 Key Insights & Recommendations**
+## **Key Insights & Recommendations**
 
 *(Analysis: 7,500 employees, SPSS, Pivot Tables)*
 
@@ -21,13 +21,13 @@ Transform Meta's post-2023 layoffs **"Morale Crisis"** into an **"Engagement Boo
 * **Insight: Post-Layoff Morale & Trust Loss:** Need to rebuild trust and community.
     * **Recommendation:** Foster **Compassionate Leadership**, Sense of Community and harness the **power of AI**.
 
-## **🌟 Impact**
+## **Impact**
 
 Demonstrated expertise in **People Analytics** by delivering **actionable HR solutions** (that improve workforce outcomes) and by **effectively communicating** the same to executive leadership.
 
 ---
 
-## **📂 Project Deliverables**
+## **Project Deliverables**
 
 * **[Full Case Study Analysis (PDF)](Meta%20Case%20Study%20Analysis.pdf)**
 * **[Presentation to Leadership (PDF)](Meta%20Case%20Study%20Presentation%20.pdf)**
@@ -35,4 +35,4 @@ Demonstrated expertise in **People Analytics** by delivering **actionable HR sol
 
 ---
 
-**🛠️ Skills:** People Analytics, Data Analysis, Data Storytelling, Statistical Analysis, Organizational Psychology, HR Strategy, Talent Management, Employee Engagement, Retention, Excel (Pivot Tables), SPSS, AI Tools
+**Skills:** People Analytics, Data Analysis, Data Storytelling, Statistical Analysis, Organizational Psychology, HR Strategy, Talent Management, Employee Engagement, Retention, Excel (Pivot Tables), SPSS, AI Tools
