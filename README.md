@@ -35,4 +35,4 @@ Demonstrated expertise in **People Analytics** by delivering **actionable HR sol
 
 ---
 
-**🛠️ Skills:** People Analytics, Data Analysis, Data Storytelling, Statistical Analysis, Org Psychology, HR Strategy, Talent Management, Employee Engagement, Retention, Excel, SPSS, AI Tools, Presentation.
+**🛠️ Skills:** People Analytics, Data Analysis, Data Storytelling, Statistical Analysis, Organizational Psychology, HR Strategy, Talent Management, Employee Engagement, Retention, Excel (Pivot Tables), SPSS, AI Tools
